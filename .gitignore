@@ -1,0 +1,17 @@
+.buildpath
+.project
+.settings
+.classpath
+CVS
+bin
+*.class
+*.*~
+*.~*
+_vti*
+.pydevproject
+.htaccess
+~$*
+desktop.ini
+.DS_Store
+__pycache__
+samples
